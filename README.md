@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Yue Zhou</h1>
-<h3 align="center">A passionate full stack developer based in Alberta</h3>
+<h3 align="center">A developer, a runner</h3>
 
 - 💬 Ask me about **PostgreSQL, React, and ASP.Net Core**
 
